@@ -244,8 +244,16 @@ public class QuestionSceneGameFlow : MonoBehaviour {
 	
 	private IEnumerator ChooseContestant()
 	{
-		// TODO
-		yield return null;
+		m_chooseContestantQuestionText.text = "[Choose a date]";
+
+		// Text fades in
+		yield return StartCoroutine(FadeText(m_chooseContestantQuestionText,0.5f,true));
+		
+		while (m_chosenContestant == null) // Updated by button press
+			yield return null;
+		
+		// Text fades out
+		yield return StartCoroutine(FadeText(m_chooseContestantQuestionText,0.5f,false));
 	}
 	
 	private IEnumerator RevealContestant()
