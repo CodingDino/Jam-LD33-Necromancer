@@ -34,9 +34,9 @@ public class ContestantRace : MonoBehaviour {
 
 	public void RandomiseFeature()
 	{
-		do {
+//		do {
 			m_feature = m_randomFeatures[UnityEngine.Random.Range(0,m_randomFeatures.Length)];
-		} while (m_chosenFeatures.Contains(m_feature.sprite));
+//		} while (m_chosenFeatures.Contains(m_feature.sprite));
 		m_chosenFeatures.Add(m_feature.sprite);
 		for (int i = 0; i < m_randomFeatures.Length; ++i)
 		{

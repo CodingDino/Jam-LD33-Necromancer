@@ -20,10 +20,16 @@ public class Contestant : MonoBehaviour {
 	[SerializeField]
 	private int m_numRandomTraits = 3;
 
+	[SerializeField]
+	private GameObject m_graveStone;
+	
+	[SerializeField]
+	private TextMesh m_graveStoneName;
+
 	private Color m_color;
 	private ContestantRace m_race;
 	private List<ContestantTrait> m_traits;
-	private string m_name;
+	public string m_name;
 
 	private static List<Color> m_chosenColors = new List<Color>();
 	private static List<string> m_chosenNames = new List<string>();
@@ -35,6 +41,7 @@ public class Contestant : MonoBehaviour {
 			m_name = m_randomNames[UnityEngine.Random.Range(0,m_randomNames.Length)];
 		} while (m_chosenNames.Contains(m_name));
 		m_chosenNames.Add(m_name);
+		m_graveStoneName.text = m_name;
 
 		// Choose a race
 		m_race = m_randomRaces[UnityEngine.Random.Range(0,m_randomRaces.Length)];
@@ -68,6 +75,21 @@ public class Contestant : MonoBehaviour {
 			}
 		}
 
+	}
+
+	public void SetGravestone(bool _isGraveStone)
+	{
+		if (_isGraveStone)
+		{
+			m_race.gameObject.SetActive(false);
+			m_graveStone.SetActive(true);
+		}
+		else
+		{
+			// TODO: Transition effect for coming out of gravestone
+			m_race.gameObject.SetActive(true);
+			m_graveStone.SetActive(false);
+		}
 	}
 
 }
