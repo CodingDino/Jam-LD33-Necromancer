@@ -10,6 +10,7 @@ public class QuestionSceneGameFlow : MonoBehaviour {
 	
 	public GameObject[] m_contestantSpotlights;
 	public Contestant[] m_contestants;
+	public Contestant m_chosenContestant = null;
 
 	public Text m_mainText;
 	public AudioSource m_mainTextAudio;
@@ -17,6 +18,8 @@ public class QuestionSceneGameFlow : MonoBehaviour {
 	public AudioSource m_audio;
 	public AudioClip m_spotlightSFX;
 	public AudioClip m_spotlightSmallSFX;
+	
+	public Text m_chooseContestantQuestionText;
 
 	IEnumerator Start () {
 
@@ -173,24 +176,44 @@ public class QuestionSceneGameFlow : MonoBehaviour {
 		}
 		
 		// Text fades out
-		float startFadeTime = Time.time;
-		float fadeDuration = 0.5f;
-		while (Time.time < startFadeTime + fadeDuration)
-		{
-			myColor.a = 1.0f - Easing.Ease (EasingFunction.QuadEaseInOut, Time.time - startFadeTime, 0.0f, 1.0f, fadeDuration);
-			m_mainText.color = myColor;
-			yield return null;
-		}
-		myColor.a = 0.0f;
-		m_mainText.color = myColor;
+		yield return StartCoroutine(FadeText(m_mainText,0.5f,false));
 
 		m_mainText.text = "";
 	}
+
+	public void ChooseContestant(Contestant _contestant)
+	{
+		m_chosenContestant = _contestant;
+	}
+	
+	private IEnumerator FadeText(Text _text, float _duration, bool fadeIn)
+	{
+		Color myColor = _text.color;
+
+		float startFadeTime = Time.time;
+		while (Time.time < startFadeTime + _duration)
+		{
+			myColor.a = Easing.Ease (EasingFunction.QuadEaseInOut, Time.time - startFadeTime, 0.0f, 1.0f, _duration);
+			if (!fadeIn) myColor.a = 1.0f - myColor.a;
+			_text.color = myColor;
+			yield return null;
+		}
+		myColor.a = fadeIn ? 1.0f : 0.0f;
+		_text.color = myColor;
+
+	}
+
 	
 	private IEnumerator ChooseContestantForQuestion()
 	{
-		// TODO
-		yield return null;
+		// Text fades in
+		yield return StartCoroutine(FadeText(m_chooseContestantQuestionText,0.5f,true));
+
+		while (m_chosenContestant == null) // Updated by button press
+			yield return null;
+
+		// Text fades out
+		yield return StartCoroutine(FadeText(m_chooseContestantQuestionText,0.5f,false));
 	}
 
 	private IEnumerator ChooseQuestion()
@@ -208,6 +231,8 @@ public class QuestionSceneGameFlow : MonoBehaviour {
 	private IEnumerator RespondToQuestion()
 	{
 		// TODO
+
+		m_chosenContestant = null;
 		yield return null;
 	}
 	
