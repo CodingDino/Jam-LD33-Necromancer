@@ -18,7 +18,7 @@ public class ContestantRace : MonoBehaviour {
 	private SpriteRenderer[] m_randomFeatures;
 
 	[SerializeField]
-	private ContestantTrait[] m_racialTraits;
+	private TraitType[] m_racialTraits;
 
 	[SerializeField]
 	private QuirkType m_speechQuirk = QuirkType.INVALID;
@@ -44,7 +44,7 @@ public class ContestantRace : MonoBehaviour {
 		}
 	}
 
-	public void SupplyTraits(ref List<ContestantTrait> _traits)
+	public void SupplyTraits(ref List<TraitType> _traits)
 	{
 		for (int i = 0; i < m_racialTraits.Length; ++i)
 		{

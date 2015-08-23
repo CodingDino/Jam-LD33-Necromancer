@@ -12,7 +12,7 @@ public class Contestant : MonoBehaviour {
 	private ContestantRace[] m_randomRaces;
 	
 	[SerializeField]
-	private ContestantTrait[] m_randomTraits;
+	private TraitType[] m_randomTraits;
 	
 	[SerializeField]
 	private string[] m_randomNames;
@@ -28,7 +28,7 @@ public class Contestant : MonoBehaviour {
 
 	private Color m_color;
 	private ContestantRace m_race;
-	private List<ContestantTrait> m_traits;
+	private List<TraitType> m_traits;
 	public string m_name;
 
 	private static List<Color> m_chosenColors = new List<Color>();
@@ -67,7 +67,7 @@ public class Contestant : MonoBehaviour {
 		int traitsChosen = 0;
 		while (traitsChosen < m_numRandomTraits)
 		{
-			ContestantTrait newTrait = m_randomTraits[UnityEngine.Random.Range(0,m_randomTraits.Length)];
+			TraitType newTrait = m_randomTraits[UnityEngine.Random.Range(0,m_randomTraits.Length)];
 			if (!m_traits.Contains(newTrait))
 			{
 				m_traits.Add(newTrait);
@@ -92,4 +92,10 @@ public class Contestant : MonoBehaviour {
 		}
 	}
 
+	public string GetQuestionResponse(Questions _question)
+	{
+		// TODO:
+
+		return "BUTTS";
+	}
 }
