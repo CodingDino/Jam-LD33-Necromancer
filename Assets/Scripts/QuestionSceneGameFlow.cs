@@ -126,6 +126,12 @@ public class QuestionSceneGameFlow : MonoBehaviour {
 	public Animator m_playerSpeechBubbleAnimator;
 	public Text[] m_contestorSpeechBubbleText;
 	public Animator[] m_contestorSpeechBubbleAnimator;
+	
+	public Text m_chooseLocationText;
+	public Animator[] m_locationButtonAnimators;
+	public GameObject m_locationsRoot;
+	
+	private int m_chosenLocation = -1;
 
 	private int m_chosenQuestion = -1;
 	private int m_questionChoice1 = -1;
@@ -657,9 +663,34 @@ public class QuestionSceneGameFlow : MonoBehaviour {
 		yield return null;
 	}
 	
-	private IEnumerator ChooseDestination()
+	public void LocationButtonPressed(int _choice)
 	{
-		// TODO
+		m_chosenLocation = _choice;
+	}
+	
+	private IEnumerator ChooseDestination()
+	{		
+		//  Show first question selection
+		m_locationsRoot.SetActive(true);
+		StartCoroutine(FadeText(m_chooseLocationText,0.5f,true));
+		for (int i = 0; i < m_locationButtonAnimators.Length; ++i)
+		{
+			m_locationButtonAnimators[i].SetBool("Hidden",false);
+			yield return new WaitForSeconds(0.04f);
+		}
+		
+		// Wait for choice
+		while (m_chosenLocation == -1) // Updated by button press
+			yield return null;
+		
+		// Hide first question selection
+		StartCoroutine(FadeText(m_chooseLocationText,0.5f,false));
+		for (int i = 0; i < m_locationButtonAnimators.Length; ++i)
+		{
+			m_locationButtonAnimators[i].SetBool("Hidden",true);
+			yield return new WaitForSeconds(0.04f);
+		}
+
 		yield return null;
 	}
 	

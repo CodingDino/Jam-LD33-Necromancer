@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="WorkingFile.svg">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -24,17 +24,17 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.175"
-     inkscape:cx="764.24016"
-     inkscape:cy="998.56191"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="51.201755"
+     inkscape:cy="-23.121792"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1443"
-     inkscape:window-height="781"
-     inkscape:window-x="2015"
-     inkscape:window-y="189"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2990">
     <rdf:RDF>
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,11 +52,25 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
+       y="1544.8373"
+       x="-6098.9185"
+       height="2416.2849"
+       width="5751.4873"
+       id="rect25568"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#b3b39d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect25570"
+       width="5751.4873"
+       height="2416.2849"
+       x="-6098.9185"
+       y="1544.8373" />
+    <rect
        style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect2995"
-       width="3671.4875"
+       width="9362.916"
        height="2416.2849"
-       x="-2407.49"
+       x="-8098.9185"
        y="-1060.877" />
     <g
        id="g3767"
@@ -80,9 +94,1609 @@
     </g>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m -1143.4927,-765.9124 -189.9087,175.76655 189.9087,175.76654 1194.921271,0 -165.714281,200 320,-200 178.14368,0 206.07112,-175.76654 -206.07112,-175.76655 z"
+       d="m -1006.3498,-880.19811 -189.9087,175.76655 189.9087,175.76654 1194.92123,0 -165.714283,200 320.000003,-200 178.14368,0 206.07112,-175.76654 -206.07112,-175.76655 z"
        id="path3771"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 2091.4286,-493.3521 142.8571,504.285711 422.8571,0 L 2800,-493.3521 2445.7143,-627.63781 z"
+       id="path2995"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 2092.8571,-491.92353 c -8.5714,8.57143 -185.7142,337.14285 -185.7142,337.14285 l 305.7142,-190 L 2240,-480.49496 z"
+       id="path3766"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3768"
+       d="m 2798.5715,-493.3521 c 8.5714,8.57143 185.7142,337.14285 185.7142,337.14285 l -305.7142,-190 -27.1429,-135.71428 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 2663.0975,-65.154322 c 3.253,11.67717 -3.9318,384.889092 -3.9318,384.889092 L 2486.2786,4.027283 2529.3305,-127.5084 z"
+       id="path3770"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3772"
+       d="m 2223.7197,-62.1937 c -3.2343,11.682358 4.5475,384.88232 4.5475,384.88232 L 2400.6491,6.7049701 2357.3868,-124.76167 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 2290,-845.49496 40,260.71428 210,0 35,-260.71428 z"
+       id="path3774"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path22612"
+       d="m 3542.8572,-467.63781 142.8571,504.285707 422.8571,0 142.8572,-504.285707 -354.2857,-134.28571 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path22614"
+       d="m 3544.2857,-466.20924 c -8.5714,8.57143 -185.7142,337.14285 -185.7142,337.14285 l 305.7142,-190 27.1429,-135.71428 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 4250.0001,-467.63781 c 8.5714,8.57143 185.7142,337.14285 185.7142,337.14285 l -305.7142,-190 -27.1429,-135.71428 z"
+       id="path22616"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path22618"
+       d="m 4114.5261,-39.440036 c 3.253,11.67717 -3.9318,384.889096 -3.9318,384.889096 L 3937.7072,29.741569 3980.7591,-101.79411 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 3675.1483,-36.479414 c -3.2343,11.682358 4.5475,384.882324 4.5475,384.882324 l 172.3819,-315.983654 -43.2623,-131.46664 z"
+       id="path22620"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path22622"
+       d="m 3741.4286,-819.78067 40,260.71428 210,0 35,-260.71428 z"
+       style="fill:#b200b2;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 4413.008,1824.0524 -131.3469,92.9606 38.2832,213.0552 161.7233,-225.8548 189.6067,-5.5762 133.839,214.7012 53.4562,-197.6267 -105.7908,-90.9824 z"
+       id="path3789"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 4107.1907,1292.704 226.7662,-60.424 473.9272,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8512,0 z"
+       id="path3783"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 4109.6935,1308.6118 -15.604,394.8415 164.5109,-340.1766 z"
+       id="path3785"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3787"
+       d="m 5048.0658,1289.0356 7.998,372.5922 -142.205,-262.1029 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 4561.4609,1564.3732 -39.9503,33.5426 26.4601,41.4764 -30.1989,46.2897 66.2326,106.4709 47.7664,-107.6881 -28.35,-47.0475 28.6128,-41.5122 z"
+       id="path3888"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+       d="m 4141.8874,905.99097 891.8694,0 -250.9494,680.35293 -418.2501,0 z"
+       id="path3781"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 4152.6447,847.43579 36.2481,-195.18395 25.0946,117.11038 448.922,-237.00828 -97.592,119.8979 655.2584,-41.8243 -167.3006,64.1314 278.8337,119.89791 -209.1251,16.7308 200.7602,167.29961 -237.0083,-58.55518 117.1093,214.70122 -175.6645,-128.2628 -13.9421,133.8401 -175.6645,-206.33636 -568.8199,41.82438 0,451.70948 -86.4385,-301.1396 -16.7297,80.8622 -64.1314,-287.19862 -47.4017,-30.67191 z"
+       id="path3791"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g25474"
+       transform="matrix(0.79833153,0,0,0.79833153,-902.49646,519.09975)">
+      <g
+         id="g25450"
+         style="fill:#fffce7;fill-opacity:1"
+         transform="translate(240,-3542.8571)">
+        <g
+           id="g25462"
+           style="fill:#fffce7;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             id="path25087"
+             d="m 454.56868,3258.5354 343.452,171.7259 -367.6957,-44.4467 16.1625,-121.2183 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path25066"
+             d="m 399.01028,3089.8399 106.0661,47.4772 -74.7514,616.193 -48.4873,4.0406 -105.0559,-618.2133 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path25075"
+             d="m 383.85798,3098.9313 -347.732805,98.0212 27.1765,52.4074 328.637505,-59.5149 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path25077"
+             d="M 345.47218,3258.5354 2.0202752,3430.2613 369.71588,3385.8146 353.55338,3264.5963 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path25079"
+             d="M 353.55338,3430.2613 38.385775,3595.9263 369.71588,3527.236 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path25081"
+             d="M 375.77678,3577.7436 70.710675,3694.9213 381.83768,3640.373 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             sodipodi:nodetypes="cccccccccc"
+             inkscape:connector-curvature="0"
+             id="path25083"
+             d="m 74.751275,3749.4695 327.289405,-60.6091 313.1474,52.5279 -11.4532,41.4336 -124.9174,-22.2407 -104.586,82.2445 -158.0533,0.688 -111.3719,-82.7261 -115.912805,35.149 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="m 416.18288,3098.9313 338.7899,107.0131 -14.1993,50.1939 -332.6718,-66.2933 z"
+             id="path25085"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="m 446.48748,3430.2613 315.1677,165.665 -331.3302,-68.6903 z"
+             id="path25089"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="m 424.26408,3577.7436 305.0662,117.1777 -311.1271,-54.5483 z"
+             id="path25091"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         inkscape:transform-center-y="142.43151"
+         inkscape:transform-center-x="92.934034"
+         transform="matrix(0.93372076,0.35800216,-0.35800216,0.93372076,-1831.3524,-2515.8459)"
+         id="g25097"
+         style="fill:#fffce7;fill-opacity:1">
+        <path
+           sodipodi:nodetypes="cccccc"
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2682.8571,1332.3622 86.5636,-28.4209 59.1507,75.5637 -58.5714,138.5715 -92.8571,-8.5715 z"
+           id="path25093"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2678.5714,1522.3622 82.8572,14.2857 -92.8572,200 z"
+           id="path25095"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g25101"
+         transform="matrix(-0.93372076,0.35800216,0.35800216,0.93372076,3127.0083,-2522.2237)"
+         inkscape:transform-center-x="-92.93405"
+         inkscape:transform-center-y="142.43151"
+         style="fill:#fffce7;fill-opacity:1">
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path25103"
+           d="m 2682.8571,1332.3622 89.0951,-21.8185 56.6192,68.9613 -58.5714,138.5715 -92.8571,-8.5715 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path25105"
+           d="m 2678.5714,1522.3622 82.8572,14.2857 -92.8572,200 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         transform="translate(-1471.3521,1640.3545)"
+         id="g25068">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path25062"
+           d="m 1780.0022,-2574.1603 167.8776,-101.6185 318.0326,-0.5803 164.3348,87.2198 47.3265,308.4958 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:type="star"
+           style="fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path22626"
+           sodipodi:sides="5"
+           sodipodi:cx="3849.2856"
+           sodipodi:cy="-703.35211"
+           sodipodi:r1="23.743958"
+           sodipodi:r2="19.209265"
+           sodipodi:arg1="-1.8449638"
+           sodipodi:arg2="-1.2166452"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+           inkscape:transform-center-x="8.4889817"
+           inkscape:transform-center-y="-1.2536104"
+           transform="matrix(4.273406,0,0,4.273406,-14500.365,816.90316)" />
+        <path
+           transform="matrix(3.7111378,2.1188332,-2.1188332,3.7111378,-13515.865,-7737.6099)"
+           inkscape:transform-center-y="-2.1791251"
+           inkscape:transform-center-x="-7.5931071"
+           d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="-1.2166452"
+           sodipodi:arg1="-1.8449638"
+           sodipodi:r2="19.209265"
+           sodipodi:r1="23.743958"
+           sodipodi:cy="-703.35211"
+           sodipodi:cx="3849.2856"
+           sodipodi:sides="5"
+           id="path22628"
+           style="fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           sodipodi:type="star" />
+        <path
+           style="fill:#868686;fill-opacity:1;stroke:none"
+           d="m 2098.3366,-2007.7133 -18.6202,103.6323 -16.0751,-68.2315 z"
+           id="path22642"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path22644"
+           d="m 2128.3693,-2009.4511 19.2192,103.5227 15.6801,-68.3232 z"
+           style="fill:#868686;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         transform="translate(-2511.6554,-1631.6484)"
+         id="g25111"
+         style="fill:#fffce7;fill-opacity:1">
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2854.6911,1947.3573 96.9746,-78.7919 92.9341,80.8122 -60.6092,92.9341 -113.1371,-2.0203 z"
+           id="path25107"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2876.9144,2058.4741 90.9138,0 -72.731,103.0356 z"
+           id="path25109"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,3787.6559,-1627.6078)"
+         id="g25115"
+         style="fill:#fffce7;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path25117"
+           d="m 2854.6911,1947.3573 96.9746,-78.7919 92.9341,80.8122 -60.6092,92.9341 -113.1371,-2.0203 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path25119"
+           d="m 2876.9144,2058.4741 90.9138,0 -72.731,103.0356 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25121"
+       d="m 5944.4366,1881.1953 -131.3469,92.9606 38.2832,213.0552 82.0683,-105.643 59.4519,94.9507 46.0742,-90.4588 58.6768,89.9371 56.5715,-91.9276 82.6793,97.0094 39.704,-104.9118 59.943,94.3142 53.4562,-197.6267 -105.7908,-90.9824 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path25123"
+       d="m 5638.6193,1349.8469 226.7662,-60.424 473.9272,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8512,0 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25125"
+       d="m 5641.1221,1365.7547 -15.604,394.8415 164.5109,-340.1766 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 6579.4944,1346.1785 7.998,372.5922 -142.205,-262.1029 z"
+       id="path25127"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25129"
+       d="m 6092.8895,1621.5161 -39.9503,33.5426 26.4601,41.4764 -30.1989,46.2897 66.2326,106.4709 47.7664,-107.6881 -28.35,-47.0475 28.6128,-41.5122 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <g
+       transform="translate(2960.0707,-22.857136)"
+       id="g25135">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path25137"
+         d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+         style="fill:#b9b9b9;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path25147"
+         sodipodi:sides="5"
+         sodipodi:cx="3849.2856"
+         sodipodi:cy="-703.35211"
+         sodipodi:r1="23.743958"
+         sodipodi:r2="19.209265"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:arg2="-1.2166452"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:transform-center-x="-0.12955598"
+         inkscape:transform-center-y="-9.5652412"
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13482.787,-177.96165)" />
+      <path
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13648.452,-414.33735)"
+         inkscape:transform-center-y="-9.5652412"
+         inkscape:transform-center-x="-0.12955598"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-1.2166452"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:r2="19.209265"
+         sodipodi:r1="23.743958"
+         sodipodi:cy="-703.35211"
+         sodipodi:cx="3849.2856"
+         sodipodi:sides="5"
+         id="path25149"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path25151"
+         sodipodi:sides="5"
+         sodipodi:cx="3849.2856"
+         sodipodi:cy="-703.35211"
+         sodipodi:r1="23.743958"
+         sodipodi:r2="19.209265"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:arg2="-1.2166452"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:transform-center-x="-0.12955598"
+         inkscape:transform-center-y="-9.5652412"
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13315.102,-412.31704)" />
+    </g>
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 7289.0864,1943.4781 -131.3469,92.9606 38.2832,213.0552 82.0683,-105.643 59.4519,94.9507 46.0742,-90.4588 58.6768,89.9371 56.5715,-91.9276 82.6793,97.0094 39.704,-104.9118 59.943,94.3142 53.4562,-197.6267 -105.7908,-90.9824 z"
+       id="path25153"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 6983.2691,1412.1297 226.7662,-60.424 473.9272,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8512,0 z"
+       id="path25155"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 6985.7719,1428.0375 -15.604,394.8415 164.5109,-340.1766 z"
+       id="path25157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25159"
+       d="m 7924.1442,1408.4613 7.998,372.5922 -142.205,-262.1029 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 7437.5393,1683.7989 -39.9503,33.5426 26.4601,41.4764 -30.1989,46.2897 66.2326,106.4709 47.7664,-107.6881 -28.35,-47.0475 28.6128,-41.5122 z"
+       id="path25161"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g25163"
+       transform="translate(4304.7205,39.425692)">
+      <path
+         style="fill:#b9b9b9;fill-opacity:1;stroke:none"
+         d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+         id="path25165"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path25173"
+       d="m 1769.4823,1175.9772 106.066,47.4772 -74.7513,616.193 -48.4873,4.0406 -105.0559,-618.2133 z"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path25175"
+       d="m 1754.33,1185.0686 -347.7328,98.0212 27.1765,52.4074 328.6375,-59.5149 z"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path25177"
+       d="m 1715.9442,1344.6727 -343.4519,171.7259 367.6956,-44.4467 -16.1625,-121.2183 z"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path25179"
+       d="m 1724.0254,1516.3986 -315.1676,165.665 331.3301,-68.6903 z"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path25181"
+       d="m 1746.2488,1663.8809 -305.0661,117.1777 311.127,-54.5483 z"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25183"
+       d="m 1445.2233,1835.6068 327.2894,-60.6091 313.1473,52.5279 -11.4532,41.4336 -124.9174,-22.2407 -104.5859,82.2445 -158.0533,0.688 -111.3719,-82.7261 -115.9128,35.149 z"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+       d="m 1786.6549,1185.0686 338.7898,107.0131 -14.1993,50.1939 -332.6717,-66.2933 z"
+       id="path25185"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+       d="m 1825.0407,1344.6727 343.4519,171.7259 -367.6956,-44.4467 16.1625,-121.2183 z"
+       id="path25187"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+       d="m 1816.9595,1516.3986 315.1676,165.665 -331.3301,-68.6903 z"
+       id="path25189"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+       d="m 1794.7361,1663.8809 305.0661,117.1777 -311.127,-54.5483 z"
+       id="path25191"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:transform-center-y="142.43151"
+       inkscape:transform-center-x="92.934034"
+       transform="matrix(0.93372076,0.35800216,-0.35800216,0.93372076,-700.88044,-886.85158)"
+       id="g25193">
+      <path
+         sodipodi:nodetypes="cccccc"
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+         d="m 2682.8571,1332.3622 86.5636,-28.4209 59.1507,75.5637 -58.5714,138.5715 -92.8571,-8.5715 z"
+         id="path25195"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+         d="m 2678.5714,1522.3622 82.8572,14.2857 -92.8572,200 z"
+         id="path25197"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g25199"
+       transform="matrix(-0.93372076,0.35800216,0.35800216,0.93372076,4257.4802,-893.22939)"
+       inkscape:transform-center-x="-92.93405"
+       inkscape:transform-center-y="142.43151">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path25201"
+         d="m 2682.8571,1332.3622 89.0951,-21.8185 56.6192,68.9613 -58.5714,138.5715 -92.8571,-8.5715 z"
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path25203"
+         d="m 2678.5714,1522.3622 82.8572,14.2857 -92.8572,200 z"
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(-1382.88,-29.551839)"
+       id="g25205">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path25207"
+         d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+         style="fill:#b9b9b9;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(-1381.1835,-2.6540919)"
+       id="g25217">
+      <path
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+         d="m 2854.6911,1947.3573 96.9746,-78.7919 92.9341,80.8122 -60.6092,92.9341 -113.1371,-2.0203 z"
+         id="path25219"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+         d="m 2876.9144,2058.4741 90.9138,0 -72.731,103.0356 z"
+         id="path25221"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,4918.1278,1.3865181)"
+       id="g25223">
+      <path
+         inkscape:connector-curvature="0"
+         id="path25225"
+         d="m 2854.6911,1947.3573 96.9746,-78.7919 92.9341,80.8122 -60.6092,92.9341 -113.1371,-2.0203 z"
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path25227"
+         d="m 2876.9144,2058.4741 90.9138,0 -72.731,103.0356 z"
+         style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 2073.5321,3958.069 -131.3469,92.9606 38.2832,213.0552 82.0683,-105.643 59.4519,94.9507 46.0742,-90.4588 58.6768,89.9371 56.5715,-91.9276 82.6793,97.0094 39.704,-104.9118 59.943,94.3142 53.4562,-197.6267 -105.7908,-90.9824 z"
+       id="path25229"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 1767.7148,3426.7206 226.7662,-60.424 473.9272,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8512,0 z"
+       id="path25231"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 1770.2176,3442.6284 -15.604,394.8415 164.5109,-340.1766 z"
+       id="path25233"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25235"
+       d="m 2708.5899,3423.0522 7.998,372.5922 -142.205,-262.1029 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g25239"
+       transform="translate(-910.83382,2054.0165)">
+      <path
+         style="fill:#b9b9b9;fill-opacity:1;stroke:none"
+         d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+         id="path25241"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path25245"
+         sodipodi:sides="5"
+         sodipodi:cx="3849.2856"
+         sodipodi:cy="-703.35211"
+         sodipodi:r1="23.743958"
+         sodipodi:r2="19.209265"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:arg2="-1.2166452"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:transform-center-x="-0.12955598"
+         inkscape:transform-center-y="-9.5652412"
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13648.452,-414.33735)" />
+      <path
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13315.102,-412.31704)"
+         inkscape:transform-center-y="-9.5652412"
+         inkscape:transform-center-x="-0.12955598"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-1.2166452"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:r2="19.209265"
+         sodipodi:r1="23.743958"
+         sodipodi:cy="-703.35211"
+         sodipodi:cx="3849.2856"
+         sodipodi:sides="5"
+         id="path25247"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="star" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25263"
+       d="m 3338.2057,3957.4946 -131.3469,92.9606 38.2832,213.0552 161.7233,-225.8548 189.6067,-5.5762 133.839,214.7012 53.4562,-197.6267 -105.7908,-90.9824 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path25265"
+       d="m 3032.3884,3426.1462 226.7662,-60.424 473.9272,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8512,0 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25267"
+       d="m 3034.8912,3442.054 -15.604,394.8415 164.5109,-340.1766 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 3973.2635,3422.4778 7.998,372.5922 -142.205,-262.1029 z"
+       id="path25269"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g25301"
+       transform="matrix(1.203258,0,0,1,-861.26446,-16.162444)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path25281"
+         d="m 3909.2904,3225.0407 139.401,-8.9318 -2.0203,84.8528 -135.3604,0 z"
+         style="fill:#898989;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#898989;fill-opacity:1;stroke:none"
+         d="m 4013.3121,3349.9005 52.3401,4.8766 22.5512,-190.9846 -77.0977,3.8902 z"
+         id="path25295"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g25297"
+       transform="matrix(1.0721649,0,0,1,-396.25054,-24.243664)">
+      <path
+         style="fill:#898989;fill-opacity:1;stroke:none"
+         d="m 3307.2394,3239.1829 -133.3401,-8.9319 1.9325,84.8528 129.4751,0 z"
+         id="path25283"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path25285"
+         d="m 3123.3917,3177.7231 52.5279,-2.0203 12.1218,191.929 -76.7716,-8.0812 z"
+         style="fill:#898989;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path25273"
+       d="m 3145.877,3033.3723 726.2044,-20.2031 -38.0376,364.9114 -126.0387,341.7055 -418.2501,0 -102.7928,-314.0765 z"
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#767676;fill-opacity:1;stroke:none"
+       d="m 3947.676,2911.3894 -28.2842,423.9176 -32.3249,-54.5483 -88.8934,317.1879 20.2031,-476.792 -52.5279,101.0153 -48.4874,-109.0965 -64.6497,92.934 -80.8122,-96.9746 -44.4467,109.0965 -68.6904,-80.8122 -36.3655,92.934 -96.9747,-88.8934 -24.2436,72.731 -68.6904,-92.9341 -24.2437,472.7514 -78.8934,-282.8427 -34.2436,68.6904 -24.2438,-469.7209 z"
+       id="path25279"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="fill:#767676;fill-opacity:1;stroke:none"
+       d="m 4619.0791,3957.4946 -131.3469,92.9606 38.2832,213.0552 161.7233,-225.8548 189.6067,-5.5762 133.839,214.7012 53.4562,-197.6267 -105.7908,-90.9824 z"
+       id="path25319"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#767676;fill-opacity:1;stroke:none"
+       d="m 4313.2618,3426.1462 226.7662,-60.424 473.9272,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8512,0 z"
+       id="path25321"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#767676;fill-opacity:1;stroke:none"
+       d="m 4315.7646,3442.054 -15.604,394.8415 164.5109,-340.1766 z"
+       id="path25323"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25325"
+       d="m 5254.1369,3422.4778 7.998,372.5922 -142.205,-262.1029 z"
+       style="fill:#767676;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path25353"
+       d="m 5075.0062,3335.307 303.0458,-167.6853 -321.2285,496.995 80.8122,-22.2233 -330.9345,294.2608 136.9852,-550.8396 143.4416,-56.5685 z"
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none"
+       d="m 4505.2803,3345.4085 -303.0458,-167.6853 321.2285,496.995 -80.8122,-22.2233 364.863,283.1893 -170.9137,-539.7681 -143.4416,-56.5685 z"
+       id="path25351"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#aaaaaa;fill-opacity:1;stroke:none"
+       d="m 4426.7504,3033.3723 726.2044,-20.2031 -1.6721,191.1652 -162.4042,515.4517 -418.2501,0 -102.7928,-314.0765 z"
+       id="path25341"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25345"
+       d="m 4396.8925,3081.6723 36.2481,-195.184 25.0946,117.1104 448.922,-237.0083 -97.592,119.8979 655.2584,-41.8243 -167.3006,64.1314 278.8337,119.8979 -209.1251,16.7308 200.7602,167.2996 -237.0083,-58.5551 117.1093,214.7012 -175.6645,-128.2628 -13.9421,133.8401 -175.6645,-206.3364 -568.8199,41.8244 0,451.7095 -86.4385,-301.1396 -16.7297,80.8622 -64.1314,-287.1986 -47.4017,-30.6719 z"
+       style="fill:#767676;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#f5f5f5;fill-opacity:1;stroke:none"
+       d="m 4705.3718,3552.6002 34.2857,82.8571 22.8572,-82.8571 z"
+       id="path25347"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path25349"
+       d="m 4831.0861,3555.4573 34.2857,82.8571 22.8572,-82.8571 z"
+       style="fill:#f5f5f5;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 6045.2441,4009.3438 -128.4898,92.9606 35.4261,213.0552 161.7233,-225.8548 189.6067,-5.5762 133.839,214.7012 57.7419,-196.1981 -110.0765,-92.411 z"
+       id="path25355"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#929292;fill-opacity:1;stroke:none"
+       d="m 6002.4307,4168.0693 -67.5001,43.3035 7.5,45.7143 72.6786,-29.5535 37.1429,-50.8036 z"
+       id="path25444"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#898989;fill-opacity:1;stroke:none"
+       d="m 5916.0738,4097.4286 193.8569,0.2836 -59.9808,82.2059 -125.9576,-32.4738 z"
+       id="path25442"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 5742.7321,3479.2485 226.7662,-60.424 473.9272,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8512,0 z"
+       id="path25357"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#929292;fill-opacity:1;stroke:none"
+       d="m 5782.4306,3618.0693 865.7143,-151.4286 -381.4285,-95.7143 -133.04,0.8947 -395.5315,106.2482 z"
+       id="path25399"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#898989;fill-opacity:1;stroke:none"
+       d="m 5833.1449,3795.2122 738.75,48.5714 -26.6071,87.1428 -668.5714,38.5715 z"
+       id="path25416"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#929292;fill-opacity:1;stroke:none"
+       d="m 5827.4307,3785.2122 309.2857,-130 310,112.8571 -595.7143,101.4286 z"
+       id="path25414"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#898989;fill-opacity:1;stroke:none"
+       d="m 6258.145,3529.4979 363.5713,147.8571 -40.8927,137.8572 -651.2501,-224.2858 z"
+       id="path25412"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#929292;fill-opacity:1;stroke:none"
+       d="m 6373.5575,4176.7641 88.3884,38.6383 -12.627,42.1739 -56.0761,-29.6209 -30.2919,-48.1609 z"
+       id="path25448"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#898989;fill-opacity:1;stroke:none"
+       d="m 6336.2113,4136.6624 137.2908,-40.0217 21.4286,4.2857 -17.5,61.0715 -114.1161,18.3189 z"
+       id="path25446"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#929292;fill-opacity:1;stroke:none"
+       d="m 6512.0735,4042.355 -17.4999,61.4286 -382.6481,-0.1263 -222.352,-94.1594 -14.2857,-42.8572 265.3571,-17.5 z"
+       id="path25418"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <g
+       id="g25426"
+       transform="matrix(0.97183094,0.23567906,-0.23567906,0.97183094,738.1077,-1201.7821)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path25359"
+         d="m 5962.8043,3375.1635 -15.604,394.8415 164.5109,-340.1766 -46.0734,-97.2579 z"
+         style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path25424"
+         d="m 5951.0612,3666.8895 30.8096,-45.2044 24.7857,26.1563 -58.8783,121.8311 z"
+         style="fill:#929292;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path25422"
+         d="m 5996.2809,3515.0338 33.8834,83.5658 -23.7972,49.8546 -52.0229,-56.316 3.0278,-76.5611 z"
+         style="fill:#898989;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path25420"
+         d="m 6099.9541,3454.0585 -140.7684,10.5034 -1.931,51.9475 112.3055,0.3571 z"
+         style="fill:#929292;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g25432"
+       transform="matrix(-0.97946709,0.20160414,0.20160414,0.97946709,11843.428,-1033.5484)">
+      <path
+         style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+         d="m 5962.8043,3375.1635 -15.604,394.8415 164.5109,-340.1766 -46.0734,-97.2579 z"
+         id="path25434"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#929292;fill-opacity:1;stroke:none"
+         d="m 5951.0612,3666.8895 30.8096,-45.2044 24.7857,26.1563 -58.8783,121.8311 z"
+         id="path25436"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#898989;fill-opacity:1;stroke:none"
+         d="m 5996.2809,3515.0338 33.8834,83.5658 -23.7972,49.8546 -52.0229,-56.316 3.0278,-76.5611 z"
+         id="path25438"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#929292;fill-opacity:1;stroke:none"
+         d="m 6099.9541,3454.0585 -140.7684,10.5034 -1.931,51.9475 112.3055,0.3571 z"
+         id="path25440"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g25401"
+       transform="translate(-444.4671,159.6041)">
+      <g
+         transform="translate(3495.2746,1987.5742)"
+         id="g25379">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path25381"
+           d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+           style="fill:#b9b9b9;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         id="g25385"
+         transform="translate(3495.2746,1987.5742)">
+        <path
+           style="fill:#cbcbcb;fill-opacity:1;stroke:none"
+           d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 -661.46,118.61777 z"
+           id="path25387"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc"
+           inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path25389"
+         d="m 6674.2857,2888.0765 330,131.4285 21.4286,127.1429 -720.0001,-134.2857 10.0001,-58.5714 z"
+         style="fill:#adadad;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path25391"
+         d="m 6287.1894,3146.4084 243.4468,-93.9442 494.9748,90.9138 -47.4772,128.2893 -650.5383,11.1117 -42.4264,-129.2995 z"
+         style="fill:#cbcbcb;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path25393"
+         d="M 6601.4286,3280.9336 6930,3405.2193 l -50,132.8572 -538.5714,-214.2857 -15.7143,-42.8572 z"
+         style="fill:#adadad;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path25395"
+         d="m 6409.4179,3517.1344 167.6853,-104.0457 -236.3757,-87.8833 64.6498,195.9696 z"
+         style="fill:#cbcbcb;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path25397"
+         d="m 6721.555,3472.6877 -289.9137,28.2843 -26.264,20.203 29.2944,89.9036 419.2133,2.0203 29.2944,-79.8021 z"
+         style="fill:#adadad;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       y="3023.7007"
+       x="-6098.9185"
+       height="937.42157"
+       width="5751.4873"
+       id="rect25572"
+       style="fill:#e6e6c8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       transform="matrix(0.79833153,0,0,0.79833153,-6021.5029,2798.0039)"
+       id="g25574">
+      <g
+         transform="translate(240,-3542.8571)"
+         style="fill:#fffce7;fill-opacity:1"
+         id="g25576">
+        <g
+           style="fill:#fffce7;fill-opacity:1"
+           id="g25578">
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="m 454.56868,3258.5354 343.452,171.7259 -367.6957,-44.4467 16.1625,-121.2183 z"
+             id="path25580"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="m 399.01028,3089.8399 106.0661,47.4772 -74.7514,616.193 -48.4873,4.0406 -105.0559,-618.2133 z"
+             id="path25582"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="m 383.85798,3098.9313 -347.732805,98.0212 27.1765,52.4074 328.637505,-59.5149 z"
+             id="path25584"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="M 345.47218,3258.5354 2.0202752,3430.2613 369.71588,3385.8146 353.55338,3264.5963 z"
+             id="path25586"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="M 353.55338,3430.2613 38.385775,3595.9263 369.71588,3527.236 z"
+             id="path25588"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="M 375.77678,3577.7436 70.710675,3694.9213 381.83768,3640.373 z"
+             id="path25590"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             d="m 74.751275,3749.4695 327.289405,-60.6091 313.1474,52.5279 -11.4532,41.4336 -124.9174,-22.2407 -104.586,82.2445 -158.0533,0.688 -111.3719,-82.7261 -115.912805,35.149 z"
+             id="path25592"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path25594"
+             d="m 416.18288,3098.9313 338.7899,107.0131 -14.1993,50.1939 -332.6718,-66.2933 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path25596"
+             d="m 446.48748,3430.2613 315.1677,165.665 -331.3302,-68.6903 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path25598"
+             d="m 424.26408,3577.7436 305.0662,117.1777 -311.1271,-54.5483 z"
+             style="fill:#fffce7;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <g
+         style="fill:#fffce7;fill-opacity:1"
+         id="g25600"
+         transform="matrix(0.93372076,0.35800216,-0.35800216,0.93372076,-1831.3524,-2515.8459)"
+         inkscape:transform-center-x="92.934034"
+         inkscape:transform-center-y="142.43151">
+        <path
+           inkscape:connector-curvature="0"
+           id="path25602"
+           d="m 2682.8571,1332.3622 86.5636,-28.4209 59.1507,75.5637 -58.5714,138.5715 -92.8571,-8.5715 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path25604"
+           d="m 2678.5714,1522.3622 82.8572,14.2857 -92.8572,200 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         style="fill:#fffce7;fill-opacity:1"
+         inkscape:transform-center-y="142.43151"
+         inkscape:transform-center-x="-92.93405"
+         transform="matrix(-0.93372076,0.35800216,0.35800216,0.93372076,3127.0083,-2522.2237)"
+         id="g25606">
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2682.8571,1332.3622 89.0951,-21.8185 56.6192,68.9613 -58.5714,138.5715 -92.8571,-8.5715 z"
+           id="path25608"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2678.5714,1522.3622 82.8572,14.2857 -92.8572,200 z"
+           id="path25610"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g25612"
+         transform="translate(-1471.3521,1640.3545)">
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 1780.0022,-2574.1603 167.8776,-101.6185 318.0326,-0.5803 164.3348,87.2198 47.3265,308.4958 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+           id="path25614"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           transform="matrix(4.273406,0,0,4.273406,-14500.365,816.90316)"
+           inkscape:transform-center-y="-1.2536104"
+           inkscape:transform-center-x="8.4889817"
+           d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="-1.2166452"
+           sodipodi:arg1="-1.8449638"
+           sodipodi:r2="19.209265"
+           sodipodi:r1="23.743958"
+           sodipodi:cy="-703.35211"
+           sodipodi:cx="3849.2856"
+           sodipodi:sides="5"
+           id="path25616"
+           style="fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           sodipodi:type="star" />
+        <path
+           sodipodi:type="star"
+           style="fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path25618"
+           sodipodi:sides="5"
+           sodipodi:cx="3849.2856"
+           sodipodi:cy="-703.35211"
+           sodipodi:r1="23.743958"
+           sodipodi:r2="19.209265"
+           sodipodi:arg1="-1.8449638"
+           sodipodi:arg2="-1.2166452"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+           inkscape:transform-center-x="-7.5931071"
+           inkscape:transform-center-y="-2.1791251"
+           transform="matrix(3.7111378,2.1188332,-2.1188332,3.7111378,-13515.865,-7737.6099)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path25620"
+           d="m 2098.3366,-2007.7133 -18.6202,103.6323 -16.0751,-68.2315 z"
+           style="fill:#868686;fill-opacity:1;stroke:none" />
+        <path
+           style="fill:#868686;fill-opacity:1;stroke:none"
+           d="m 2128.3693,-2009.4511 19.2192,103.5227 15.6801,-68.3232 z"
+           id="path25622"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="fill:#fffce7;fill-opacity:1"
+         id="g25624"
+         transform="translate(-2511.6554,-1631.6484)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path25626"
+           d="m 2854.6911,1947.3573 96.9746,-78.7919 92.9341,80.8122 -60.6092,92.9341 -113.1371,-2.0203 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path25628"
+           d="m 2876.9144,2058.4741 90.9138,0 -72.731,103.0356 z"
+           style="fill:#fffce7;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         style="fill:#fffce7;fill-opacity:1"
+         id="g25630"
+         transform="matrix(-1,0,0,1,3787.6559,-1627.6078)">
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2854.6911,1947.3573 96.9746,-78.7919 92.9341,80.8122 -60.6092,92.9341 -113.1371,-2.0203 z"
+           id="path25632"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fffce7;fill-opacity:1;stroke:none"
+           d="m 2876.9144,2058.4741 90.9138,0 -72.731,103.0356 z"
+           id="path25634"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25636"
+       d="m 691.64342,4046.9624 -131.3469,92.9606 38.2832,213.0552 82.0683,-105.643 59.4519,94.9507 46.0742,-90.4588 58.6768,89.9371 56.5715,-91.9276 82.6793,97.0094 39.70398,-104.9118 59.943,94.3142 53.4562,-197.6267 -105.7908,-90.9824 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path25638"
+       d="m 385.82612,3515.614 226.7662,-60.424 473.92718,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.85118,0 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25640"
+       d="m 388.32892,3531.5218 -15.604,394.8415 164.5109,-340.1766 z"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none"
+       d="m 1326.7012,3511.9456 7.998,372.5922 -142.205,-262.1029 z"
+       id="path25642"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       transform="translate(-2292.7225,2142.9099)"
+       id="g25644">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path25646"
+         d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+         style="fill:#b9b9b9;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13648.452,-414.33735)"
+         inkscape:transform-center-y="-9.5652412"
+         inkscape:transform-center-x="-0.12955598"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-1.2166452"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:r2="19.209265"
+         sodipodi:r1="23.743958"
+         sodipodi:cy="-703.35211"
+         sodipodi:cx="3849.2856"
+         sodipodi:sides="5"
+         id="path25648"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path25650"
+         sodipodi:sides="5"
+         sodipodi:cx="3849.2856"
+         sodipodi:cy="-703.35211"
+         sodipodi:r1="23.743958"
+         sodipodi:r2="19.209265"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:arg2="-1.2166452"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:transform-center-x="-0.12955598"
+         inkscape:transform-center-y="-9.5652412"
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13315.102,-412.31704)" />
+    </g>
+    <path
+       style="fill:#b9b9b9;fill-opacity:1;stroke:none"
+       d="m 525.71429,3203.7908 c 0,-14.2858 5.71428,-257.1429 5.71428,-257.1429 L 800,2815.2193 l 248.5714,60 102.8572,20.0001 62.8571,-48.5715 -45.7143,-62.8571 -54.2857,20 60,-82.8572 145.7143,77.1429 48.5714,185.7143 -94.2857,145.7142 -51.4286,117.1429 -377.14281,-180 z"
+       id="path25652"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="fill:#cafffa;fill-opacity:1;stroke:none"
+       d="m -4472.2563,2964.0789 -131.3469,92.9606 38.2832,213.0552 82.0683,-105.643 59.4519,94.9507 46.0742,-90.4588 58.6768,89.9371 56.5715,-91.9276 82.6793,97.0094 39.7039,-104.9118 59.943,94.3142 53.4562,-197.6267 -105.7908,-90.9824 z"
+       id="path25654"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#cafffa;fill-opacity:1;stroke:none"
+       d="m -4778.0736,2432.7305 226.7662,-60.424 473.9271,-2.9884 238.8825,56.8198 -188.0079,630.8732 -577.8511,0 z"
+       id="path25656"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#cafffa;fill-opacity:1;stroke:none"
+       d="m -4775.5708,2448.6383 -15.604,394.8415 164.5109,-340.1766 z"
+       id="path25658"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25660"
+       d="m -3837.1986,2429.0621 7.998,372.5922 -142.205,-262.1029 z"
+       style="fill:#cafffa;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g25662"
+       transform="translate(-7456.6223,1060.0264)">
+      <path
+         style="fill:#cafffa;fill-opacity:1;stroke:none"
+         d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+         id="path25664"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path25666"
+         sodipodi:sides="5"
+         sodipodi:cx="3849.2856"
+         sodipodi:cy="-703.35211"
+         sodipodi:r1="23.743958"
+         sodipodi:r2="19.209265"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:arg2="-1.2166452"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:transform-center-x="-0.12955598"
+         inkscape:transform-center-y="-9.5652412"
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13648.452,-414.33735)" />
+      <path
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13315.102,-412.31704)"
+         inkscape:transform-center-y="-9.5652412"
+         inkscape:transform-center-x="-0.12955598"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-1.2166452"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:r2="19.209265"
+         sodipodi:r1="23.743958"
+         sodipodi:cy="-703.35211"
+         sodipodi:cx="3849.2856"
+         sodipodi:sides="5"
+         id="path25668"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="star" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25670"
+       d="m -4638.1855,2120.9073 c 0,-14.2858 5.7143,-257.1429 5.7143,-257.1429 l 268.5714,-131.4286 248.5714,60 102.8572,20.0001 62.8571,-48.5715 -45.7143,-62.8571 -54.2857,20 60,-82.8572 145.7143,77.1429 48.5714,185.7143 -94.2857,145.7142 -51.4286,117.1429 -377.1428,-180 z"
+       style="fill:#cafffa;fill-opacity:1;stroke:none" />
+    <g
+       inkscape:export-ydpi="30"
+       inkscape:export-xdpi="30"
+       inkscape:export-filename="D:\My Documents\GitHub\LD33-Necromancer\Assets\Sprites\Spotlight.png"
+       style="fill:#ffffde;fill-opacity:0.66666667"
+       transform="translate(-1680.6951,249.46774)"
+       id="g25672">
+      <path
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none"
+         d="M -277.14286,-2093.3522 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         id="path25674"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path25676"
+         d="M -277.14286,478.07641 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none" />
+    </g>
+    <g
+       id="g25678"
+       transform="translate(-3321.1828,249.46774)"
+       style="fill:#ffffde;fill-opacity:0.66666667"
+       inkscape:export-filename="D:\My Documents\GitHub\LD33-Necromancer\Assets\Sprites\Spotlight.png"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path25680"
+         d="M -277.14286,-2093.3522 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none" />
+      <path
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none"
+         d="M -277.14286,478.07641 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         id="path25682"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="30"
+       inkscape:export-xdpi="30"
+       inkscape:export-filename="D:\My Documents\GitHub\LD33-Necromancer\Assets\Sprites\Spotlight.png"
+       style="fill:#ffffde;fill-opacity:0.66666667"
+       transform="translate(-4897.0208,249.46774)"
+       id="g25684">
+      <path
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none"
+         d="M -277.14286,-2093.3522 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         id="path25686"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path25688"
+         d="M -277.14286,478.07641 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none" />
+    </g>
+    <g
+       id="g25690"
+       transform="translate(-6610.2395,249.46774)"
+       style="fill:#ffffde;fill-opacity:0.66666667"
+       inkscape:export-filename="D:\My Documents\GitHub\LD33-Necromancer\Assets\Sprites\Spotlight.png"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path25692"
+         d="M -277.14286,-2093.3522 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none" />
+      <path
+         style="fill:#ffffde;fill-opacity:0.66666667;stroke:none"
+         d="M -277.14286,478.07641 391.42857,682.36219 -277.14286,876.31148 -945.71428,682.36219 z"
+         id="path25694"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path25696"
+       d="m -2175.1134,598.36462 -131.3469,92.9606 38.2832,213.0552 82.0683,-105.643 59.4519,94.9507 46.0742,-90.4588 58.6768,89.9371 56.5715,-91.9276 82.6793,97.0094 39.7039,-104.9118 59.943,94.3142 53.4562,-197.6267 -105.7908,-90.9824 z"
+       style="fill:#cafffa;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path25698"
+       d="m -2480.9307,67.016216 226.7662,-60.4240005 473.9271,-2.9884 238.8825,56.8198005 -188.0079,630.873204 -577.8511,0 z"
+       style="fill:#cafffa;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path25700"
+       d="m -2478.4279,82.924016 -15.604,394.841504 164.5109,-340.1766 z"
+       style="fill:#cafffa;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+       style="fill:#cafffa;fill-opacity:1;stroke:none"
+       d="m -1540.0557,63.347816 7.998,372.592204 -142.205,-262.1029 z"
+       id="path25702"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       transform="translate(-5159.4794,-1305.6879)"
+       id="g25704">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jiyambi\Documents\GitHub\LudumDare30\Assets\Sprites\Cast.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path25706"
+         d="m 2831.4308,862.98252 167.8776,-101.61844 318.0326,-0.58029 164.3348,87.21975 47.3265,308.49576 -170.566,462.4243 -418.2501,0 -146.7874,-448.4989 z"
+         style="fill:#cafffa;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13648.452,-414.33735)"
+         inkscape:transform-center-y="-9.5652412"
+         inkscape:transform-center-x="-0.12955598"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-1.2166452"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:r2="19.209265"
+         sodipodi:r1="23.743958"
+         sodipodi:cy="-703.35211"
+         sodipodi:cx="3849.2856"
+         sodipodi:sides="5"
+         id="path25708"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path25710"
+         sodipodi:sides="5"
+         sodipodi:cx="3849.2856"
+         sodipodi:cy="-703.35211"
+         sodipodi:r1="23.743958"
+         sodipodi:r2="19.209265"
+         sodipodi:arg1="-1.8449638"
+         sodipodi:arg2="-1.2166452"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 3842.8571,-726.20925 26.1804,9.67996 -1.1159,27.89038 -26.8702,7.55724 -15.4907,-23.21975 z"
+         inkscape:transform-center-x="-0.12955598"
+         inkscape:transform-center-y="-9.5652412"
+         transform="matrix(4.1089579,1.1740796,-1.1740796,4.1089579,-13315.102,-412.31704)" />
+    </g>
+    <path
+       style="fill:#cafffa;fill-opacity:1;stroke:none"
+       d="m -2341.0426,-244.80698 c 0,-14.2858 5.7143,-257.1429 5.7143,-257.1429 l 268.5714,-131.4286 248.5714,60 102.8572,20.0001 62.8571,-48.5715 -45.7143,-62.8571 -54.2857,20 60,-82.8572 145.7143,77.1429 48.5714,185.7143 -94.2857,145.7142 -51.4286,117.1429 -377.1428,-180 z"
+       id="path25712"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
   </g>
 </svg>
